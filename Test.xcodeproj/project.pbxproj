@@ -51,10 +51,10 @@
 			children = (
 				D743BC9A2A80452100FC4966 /* BitcoinEnvironment.swift */,
 				D743BC9F2A810A6600FC4966 /* Extensions.swift */,
-				D743BC8D2A7D36F300FC4966 /* WalletView.swift */,
-				D7B54A462A8223FF00B12B98 /* SendView.swift */,
 				D743BCA12A81239600FC4966 /* SendFormView.swift */,
 				D7B54A442A820FBC00B12B98 /* SendResultView.swift */,
+				D7B54A462A8223FF00B12B98 /* SendView.swift */,
+				D743BC8D2A7D36F300FC4966 /* WalletView.swift */,
 			);
 			path = Sources;
 			sourceTree = "<group>";
